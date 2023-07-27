@@ -1,14 +1,13 @@
 ## 👋 Hi, my name is Olya 
 ### I'm a Frontend Developer ✨
-### And that's what i can do:
-🌱 [ Healthy Food online store ](https://olyamosienko.github.io/Module02-Shop/dist)<br>
-💪🏻 [ Online training - Gym](https://olyamosienko.github.io/Module01-Diplom-Gym/index.html)<br>
-🍔 [ Burger delivery site - Burgos](https://olyamosienko.github.io/Module01-Burger/index)<br>
-🎤 [ Podcast Blog ](https://olyamos-podcast.ru)<br><br>
-
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram&logoColor=27A0D9)](https://t.me/olyamosienko)
 <br>
+### That's what i can do:
+🌱 [ Healthy Food online store ](https://olyamosienko.github.io/Module02-Shop/dist)<br>
+💪🏻 [ Online training - Gym](https://olyamosienko.github.io/Module01-Diplom-Gym/index.html)<br>
+🍔 [ Burger delivery site - Burgos](https://olyamosienko.github.io/Module01-Burger/index)<br>
+🎤 [ Podcast Blog ](https://olyamos-podcast.ru)<br>
 
 ## 💻 Languages and Tools used:
 ![VSC](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=white)
