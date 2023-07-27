@@ -21,7 +21,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=F24E1E)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-<br>
+<br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olyamosienko&layout=compact)
 
 <!--
