@@ -6,6 +6,10 @@
 🍔 [ Burger delivery site - Burgos](https://olyamosienko.github.io/Module01-Burger/index)<br>
 🎤 [ Podcast Blog ](https://olyamos-podcast.ru)<br><br>
 
+### Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram&logoColor=27A0D9)](https://t.me/olyamosienko)
+<br>
+
 ## 💻 Languages and Tools used:
 ![VSC](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -23,9 +27,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olyamosienko&layout=compact)
-<br>
-### Follow Me
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram&logoColor=27A0D9)](https://t.me/olyamosienko)
 <br>
 
 
