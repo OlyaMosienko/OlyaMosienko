@@ -1,7 +1,7 @@
 ### Hi, my name is Olya 👋
 #### I'm a Frontend Developer ✨
 
-#### That's what i can do:
+### That's what i can do:
 #### - [ Healthy Food online store ](https://olyamosienko.github.io/Module02-Shop/dist)
 #### - [ Online training - Gym](https://olyamosienko.github.io/Module01-Diplom-Gym/index.html)
 #### - [ Burger delivery site - Burgos](https://olyamosienko.github.io/Module01-Burger/index)
