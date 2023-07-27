@@ -17,12 +17,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%cccccc.svg?style=for-the-badge&logo=npm&logoColor=8FBC8F) 
+![NPM](https://img.shields.io/badge/NPM-%23323330.svg?style=for-the-badge&logo=npm&logoColor=32CD32) 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![BEM (CSS)](https://img.shields.io/badge/-BEM%20(CSS)-black?style=for-the-badge&logo=bem&logoColor=white)
+![BEM (CSS)](https://img.shields.io/badge/-BEM%20(CSS)-white?style=for-the-badge&logo=bem&logoColor=black)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=F24E1E)
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=blue)
+![Figma](https://img.shields.io/badge/-Figma-E6E6FA?style=for-the-badge&logo=Figma&logoColor=8B0000)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-708090?style=for-the-badge&logo=adobephotoshop&logoColor=00FFFF)
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olyamosienko&layout=compact)
 <br>
