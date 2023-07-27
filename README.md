@@ -1,4 +1,4 @@
-### Hi, my name is Olya 👋
+# Hi, my name is Olya 👋
 #### I'm a Frontend Developer ✨
 
 ### That's what i can do:
