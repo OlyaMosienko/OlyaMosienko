@@ -5,8 +5,6 @@
 <br>
 ### That's what i can do:
 🌱 [ Healthy Food online store ](https://olyamosienko.github.io/Module02-Shop/dist)<br>
-💪🏻 [ Online training - Gym](https://olyamosienko.github.io/Module01-Diplom-Gym/index.html)<br>
-🍔 [ Burger delivery site - Burgos](https://olyamosienko.github.io/Module01-Burger/index)<br>
 🎤 [ Podcast Blog ](https://olyamos-podcast.ru)<br>
 
 ## 💻 Languages and Tools used:
