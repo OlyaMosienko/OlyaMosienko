@@ -6,8 +6,8 @@
 
 ### 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-27A0D9?logo=Telegram&logoColor=FFFFFF)](https://t.me/olyamosienko)
-[![Codepen](https://img.shields.io/badge/Codepen-F1F1F1?logo=codepen&logoColor=black)](https://codepen.io/https://codepen.io/OlyaMosienko) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@olyamosienko) 
+[![Codepen](https://img.shields.io/badge/Codepen-F1F1F1?logo=codepen&logoColor=black)](https://codepen.io/OlyaMosienko) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@olyamosienko) 
 <br>
 ### That's what i can do:
 📚 [ Blog Frontendblok ](https://olyamosienko.github.io/Module02-Shop/dist](https://blog.frontendblok.com/))<br>
