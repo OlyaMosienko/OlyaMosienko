@@ -10,7 +10,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@olyamosienko) 
 <br>
 ### That's what i can do:
-📚 [ Blog Frontendblok ](https://olyamosienko.github.io/Module02-Shop/dist](https://blog.frontendblok.com/))<br>
+📚 [ Blog Frontendblok ](https://blog.frontendblok.com/)<br>
 🌱 [ Healthy Food online store ](https://olyamosienko.github.io/Module02-Shop/dist)<br>
 🎤 [ Podcast Blog ](https://olyamos-podcast.ru)<br>
 
