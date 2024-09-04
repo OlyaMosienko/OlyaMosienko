@@ -12,7 +12,6 @@
 ### That's what i can do:
 📚 [ Blog Frontendblok ](https://blog.frontendblok.com/)<br>
 🌱 [ Healthy Food online store ](https://olyamosienko.github.io/Module02-Shop/dist)<br>
-🎤 [ Podcast Blog ](https://olyamos-podcast.ru)<br>
 
 ## 💻 Languages and Tools used:
 ![VSC](https://img.shields.io/badge/-VSCode-cccccc?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
